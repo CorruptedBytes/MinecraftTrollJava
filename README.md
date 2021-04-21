@@ -105,7 +105,7 @@ Bukkit.getScheduler().scheduleSyncRepeatingTask(Main.instance, new Runnable()
 <br>
 
 
-**-- All Blocks replacing with TNT (ca. 100 Blocks) --**
+**-- All Blocks replacing with TNT (ca. 100 Blocks) [Code by Garkolym] --**
 
 1.8.8:
 ```java
@@ -141,7 +141,7 @@ for (double x = p.getLocation().getX() - 10; x <= p.getLocation().getX() + 100; 
 <br>
 <br>
 
-**-- Spawn over Player a ClientSide Pen!s --**
+**-- Spawn over Player a ClientSide Pen!s [Code by Garkolym] --**
 
 1.8.8:
 ```java
